@@ -21,7 +21,7 @@ https://edonohue8.github.io/javascript-pw-generator/
 ## Screenshot of Website Page
 
 * **index**
-![](readme-images/index.jpg)
+![](readme-images/index.png)
 
 ## Author
 
