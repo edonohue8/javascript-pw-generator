@@ -30,7 +30,12 @@ header {
   color: hsl(206, 17%, 28%);
 }
 
+.h1 {
+  font-family: copperplate, courier, arial, helvetica;
+}
+
 .h2 {
+  font-family: copperplate, courier, arial, helvetica;
   text-align: center;
 }
 
@@ -90,6 +95,7 @@ header {
   padding: 14px 34px;
   text-align: center;
   cursor: pointer;
+  font-family: copperplate, courier, arial, helvetica;
 }
 
 .btn2 {
@@ -106,6 +112,7 @@ header {
   padding: 14px 34px;
   text-align: center;
   cursor: pointer;
+  font-family: copperplate, courier, arial, helvetica;
 }
 
 button[disabled] {
